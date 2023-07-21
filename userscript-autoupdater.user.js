@@ -12,7 +12,7 @@
 // @downloadURL  https://github.com/wokes/PlaceUkraine/raw/main/userscript-autoupdater.user.js
 // @grant        GM.xmlHttpRequest
 // @connect      github.com
-// @connect      objects.githubusercontent.com
+// @connect      raw.githubusercontent.com
 // ==/UserScript==
 
 const SCRIPT_LOCATION = 'https://github.com/wokes/PlaceUkraine/raw/main/userscript.user.js';
