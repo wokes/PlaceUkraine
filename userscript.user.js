@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PlaceUkraine Userscript
 // @namespace    https://github.com/wokes/PlaceUkraine
-// @version      6190240fc8ceef1b233bdceb7eefd863e74467fa
+// @version      26aa5de759fe40ae66d026a998666bdbb078a121
 // @description  The easiest way to run our automated placer, right from your browser
 // @author       PlaceNL
 // @match        https://www.reddit.com/r/place/*
